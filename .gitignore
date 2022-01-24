@@ -1,3 +1,3 @@
-./backend/
-./terraform/
-./secret.tfvars
+backend/
+.terraform/
+secret.tfvars
